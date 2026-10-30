@@ -39,7 +39,7 @@
     "Contributor": "GemmaTuron",
     "Incorporation Date": "2023-07-10",
     "Last Packaging Date": "2025-10-17",
-    "Release": "v1.0.0",
+    "Release": "v1.0.1",
     "S3": "https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos80ch.zip",
     "DockerHub": "https://hub.docker.com/r/ersiliaos/eos80ch",
     "Docker Architecture": [
